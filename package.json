@@ -1,0 +1,29 @@
+{
+  "name": "crypto-twitter-bot",
+  "version": "1.0.0",
+  "description": "Crypto Twitter Bot",
+  "main": "app.js",
+  "dependencies": {
+    "node-binance-api": "^0.4.28",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yubz/crypto-twitter-bot.git"
+  },
+  "keywords": [
+    "crypto",
+    "twitter",
+    "bot"
+  ],
+  "author": "Yubz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yubz/crypto-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Yubz/crypto-twitter-bot#readme"
+}
